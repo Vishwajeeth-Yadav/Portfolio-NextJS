@@ -115,6 +115,7 @@ const skills = [
   { skill: "Git", icon: "/git.webp", category: "Tools" },
   { skill: "Windows", icon: "/win.png", category: "Tools" },
   { skill: "VS code", icon: "/vsc.png", category: "Tools" },
+  { skill: "AI", icon: "/soft2.png", category: "Tools" },
 ];
 
 const categoryIcons: Record<SkillCategory, ReactElement> = {

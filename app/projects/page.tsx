@@ -11,12 +11,12 @@ const projects = [
     live: "https://blogs-voix.vercel.app",
   },
   {
-    title: "Neural Network Core (PLACEHOLDER)",
-    description: "Self-learning AI system with advanced pattern recognition capabilities.",
-    image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-    technologies: ["TensorFlow", "PyTorch", "CUDA", "TPU"],
-    github: "https://github.com",
-    live: "https://example.com",
+    title: "Portfolio",
+    description: "A Personal Portfolio made using NextJs.",
+    image: "/P_img.webp",
+    technologies: ["Typescript", "NextJs", "TailwindCSS"],
+    github: "https://github.com/Vishwajeeth-Yadav/Portfolio-Nextjs",
+    live: "https://portfolio-vishwajeeth-yadav.vercel.app/",
   },
   {
     title: "Holographic Interface (PLACEHOLDER)",

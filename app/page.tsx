@@ -239,7 +239,7 @@ export default function Home() {
                 download
                 target="_blank"
                 rel="noopener noreferrer"
-                className="px-4 py-2 bg-secondary text-secondary-foreground  rounded-lg border border-primary/20 hover:bg-secondary/80 transition-all ease-in-out duration-300"
+                className="px-4 pt-3 bg-secondary text-secondary-foreground  rounded-lg border border-primary/20 hover:bg-secondary/80 transition-all ease-in-out duration-300"
               >
                 Download Resume
               </Link>

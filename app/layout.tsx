@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import Link from 'next/link';
 import { Home, User, FolderGit2, Mail } from 'lucide-react';
+import {Toaster} from 'react-hot-toast';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -18,6 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
+        <Toaster position='top-center' />
         <nav className="fixed w-full bg-background/80 backdrop-blur-sm border-b border-primary/25 z-50">
           <div className="max-w-[90rem] mx-auto px-6">
             <div className="flex items-center justify-between h-16">
