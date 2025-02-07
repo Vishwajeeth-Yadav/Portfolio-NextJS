@@ -204,7 +204,7 @@ export default function About() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.7 }}
         >
-          <h2 className="text-2xl font-semibold mb-6 flex items-center gap-2 text-primary">
+          <h2 className="text-2xl font-semibold my-6 flex items-center gap-2 text-primary">
             <Briefcase className="mr-2" />
             Professional Experience
           </h2>
@@ -233,7 +233,7 @@ export default function About() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.4 }}
           >
-            <h2 className="text-2xl font-semibold mb-6 flex items-center gap-2 text-primary">
+            <h2 className="text-2xl font-semibold my-6 flex items-center gap-2 text-primary">
               <Award className="mr-2" /> Skills & Technologies
             </h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
