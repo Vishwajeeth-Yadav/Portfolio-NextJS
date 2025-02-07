@@ -165,7 +165,7 @@ export default function About() {
               className="relative w-full max-w-md aspect-square"
             >
               <Image
-                src="/about-image.jpg"
+                src="/about-image.JPG"
                 alt="Vishwajeeth Yadav"
                 fill
                 className="object-cover rounded-2xl shadow-2xl border-4 border-primary/30 hover:rotate-2 transition-transform"
